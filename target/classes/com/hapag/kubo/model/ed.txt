@@ -1,0 +1,1 @@
+ * hapag.cafsysv2 = hapag.kubo
